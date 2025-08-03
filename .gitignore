@@ -1,0 +1,14 @@
+# Google Colab and Drive
+/content/
+drive/
+
+# Checkpoints and caches
+*.ckpt
+*.pt
+*.pkl
+*.pickle
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+venv/
